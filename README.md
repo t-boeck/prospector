@@ -1,4 +1,4 @@
-# The Prospector
+# [The Prospector](https://the-prospector.herokuapp.com/)
 ## Usage
 * Enter ticker symbol to view savings
 
